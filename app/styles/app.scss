@@ -1,0 +1,12 @@
+// out: app.css, sourcemap: true, compress: true
+// main: app.scss
+$space-lage: 2.5rem;
+$title-color: #555;
+.page-title {
+    color: $title-color;
+    margin-top: $space-lage;
+    margin-bottom: $space-lage;
+}
+input[type=search] {
+    box-shadow: none;
+}
