@@ -27,8 +27,8 @@ var About = (props) => {
       <h3>Here some of tools I use:</h3>
       <ul>
         <li><a href="https://facebook.github.io/react/">React (Javascript Framework)</a></li>
-        <li><a href="http://openweathermap.org/api"></a>Openweathermap to setup the search weather</li>
-
+        <li><a href="http://openweathermap.org/api">Openweathermap to setup the search weather</a></li>
+        <li><a href="http://foundation.zurb.com/sites/docs/">Foundation for Sites</a></li>
       </ul>
 
     </div>
